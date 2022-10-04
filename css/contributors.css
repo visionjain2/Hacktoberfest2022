@@ -30,15 +30,15 @@
 }
 ::selection{
     background-color:#4835f7;
-    color:#fff
+    color:#fff;
 }
 html{
     -webkit-box-sizing:border-box;
-    box-sizing:border-box
+    box-sizing:border-box;
 }
 h1,h2,h3,h4,h5,h6{
     font-family:Montserrat,sans-serif;
-    line-height:1.5
+    line-height:1.5;
 }
 body,html{
     background-color:var(--white)
